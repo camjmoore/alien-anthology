@@ -182,7 +182,7 @@
         "name": "The Newborn",
         "rank": null,
         "affiliation": null,
-        "species": "Xenomorph\u2013Human Hybrid",
+        "species": "Xenomorph-Human Hybrid",
         "height": null,
         "hair": null,
         "eyecolor": null,
@@ -450,13 +450,14 @@
         "name": "Michael Bishop",
         "rank": "Synthetic Component Designer",
         "affiliation": "Weyland-Yutani",
-        "species": null,
+        "species": "Unknown",
         "height": null,
         "hair": "Brown",
         "eyecolor": null,
         "planets": [],
         "vessels": [
-            "Sulaco"
+            "Sulaco",
+            "USCSS Patna"
         ],
         "films": [
             "Alien 3"
