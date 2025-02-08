@@ -41,6 +41,14 @@ def enrich_character_data(input_file, output_file):
     # Enrich Rank and Affiliation
     df['rank'] = df['rank'].fillna("Unknown")
     df['affiliation'] = df['affiliation'].fillna("Unknown")
+    df.loc[df['name'] == 'Johner', 'affiliation'] = 'the Betty Crew'
+    df.loc[df['name'] == 'Frank Elgyn', 'affiliation'] = 'the Betty Crew'
+    df.loc[df['name'] == 'Christie', 'affiliation'] = 'the Betty Crew'
+    df.loc[df['name'] == 'Annalee Call', 'affiliation'] = 'the Betty Crew'
+    df.loc[df['name'] == 'Christie', 'rank'] = 'Mercenary'
+    df.loc[df['name'] == 'Johner', 'rank'] = 'Mercenary'
+
+    df.loc[df['affiliation'] == 'the Betty Crew', 'vessels'] = append_unique(df.loc[df['affiliation'] == 'the Betty Crew'], "The Betty")
 
     # Initialize vessels and planets columns
     if 'vessels' not in df.columns:
