@@ -29,10 +29,13 @@ def enrich_character_data(input_file, output_file):
             char["vessels"] = append_unique(char.get("vessels", []), "USM Auriga")
             if char["name"] == "Ripley 8":
                 char["planets"] = []
+            if char["name"] == "Annalee Call":
+                char["planets"] = ["Earth"]
 
         if "Prometheus" in char["films"]:
             char["vessels"] = append_unique(char.get("vessels", []), "USCSS Prometheus")
             char["planets"] = append_unique(char.get("planets", []), "LV-223")
+            char["planets"] = append_unique(char.get("planets", []), "Earth")
 
         if "Alien 3" in char["films"]:
             char["planets"] = append_unique(char.get("planets", []), "Fiorina 161 /(Fury/)")
@@ -41,7 +44,6 @@ def enrich_character_data(input_file, output_file):
             if char["name"] == "Michael Bishop":
                 char["vessels"] = append_unique(char.get("vessels", []), "Sulaco")
                 char["vessels"] = append_unique(char["vessels"], "USCSS Patna")
-
         if "Alien" in char["films"]:
             char["vessels"] = append_unique(char.get("vessels", []), "USCSS Nostromo")
             char["planets"] = append_unique(char.get("planets", []), "LV-426 /(Acheron/)")
