@@ -35,6 +35,8 @@ def enrich_character_data(input_file, output_file):
     df['hair'] = df['hair'].apply(lambda x: rng.choice(hair_colors) if pd.isna(x) else x)
     df['height'] = df['height'].apply(lambda x: rng.choice(heights) if pd.isna(x) else x)
     df['eyecolor'] = df['eyecolor'].apply(lambda x: rng.choice(eyecolors) if pd.isna(x) else x)
+    df['species'] = 'Human'
+    df.loc[df['name'] == 'Ripley 8', 'species'] = 'Human-Xenomorph Hybrid'
 
     # Enrich Rank and Affiliation
     df['rank'] = df['rank'].fillna("Unknown")
