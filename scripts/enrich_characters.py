@@ -85,6 +85,6 @@ def enrich_character_data(input_file, output_file):
         json.dump(df.to_dict('records'), f, indent=4)
 
 if __name__ == "__main__":
-    enrich_character_data("../data/processed/characters_merged.json", 
+    enrich_character_data("../data/processed/characters_extracted.json", 
                           "../data/processed/characters_enriched.json")
 
