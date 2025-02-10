@@ -50,7 +50,8 @@ def enrich_character_data(input_file, output_file):
     df.loc[df['name'] == 'Christie', 'rank'] = 'Mercenary'
     df.loc[df['name'] == 'Johner', 'rank'] = 'Mercenary'
 
-    df.loc[df['affiliation'] == 'the Betty Crew', 'vessels'] = append_unique(df.loc[df['affiliation'] == 'the Betty Crew'], "The Betty")
+    # df.loc[df['affiliation'] == 'the Betty Crew', 'vessels'] = append_unique(df.loc[df['affiliation'] == 'the Betty Crew'], "The Betty")
+    df.loc[df['affiliation'] == 'the Betty Crew', 'affiliation'] = 'The Betty Crew'
 
     # Initialize vessels and planets columns
     if 'vessels' not in df.columns:
@@ -74,7 +75,7 @@ def enrich_character_data(input_file, output_file):
 
     # Alien 3 characters
     mask_alien3 = df['films'].apply(lambda x: "Alien 3" in x)
-    df.loc[mask_alien3, 'planets'] = append_unique(df.loc[mask_alien3, 'planets'], "Fiorina 161 /(Fury/)")
+    df.loc[mask_alien3, 'planets'] = append_unique(df.loc[mask_alien3, 'planets'], "Fiorina 161")
 
     # Bishop cases
     df.loc[df['name'] == "Bishop", 'vessels'] = append_unique(df.loc[df['name'] == "Bishop", 'vessels'], "USS Sulaco")
@@ -85,12 +86,12 @@ def enrich_character_data(input_file, output_file):
     # Alien characters
     mask_alien = df['films'].apply(lambda x: "Alien" in x)
     df.loc[mask_alien, 'vessels'] = append_unique(df.loc[mask_alien, 'vessels'], "USCSS Nostromo")
-    df.loc[mask_alien, 'planets'] = append_unique(df.loc[mask_alien, 'planets'], "LV-426 /(Acheron/)")
+    df.loc[mask_alien, 'planets'] = append_unique(df.loc[mask_alien, 'planets'], "LV-426")
 
     # Aliens characters
     mask_aliens = df['films'].apply(lambda x: "Aliens" in x)
     df.loc[mask_aliens, 'vessels'] = append_unique(df.loc[mask_aliens, 'vessels'], "USS Sulaco")
-    df.loc[mask_aliens, 'planets'] = append_unique(df.loc[mask_aliens, 'planets'], "LV-426 /(Acheron/)")
+    df.loc[mask_aliens, 'planets'] = append_unique(df.loc[mask_aliens, 'planets'], "LV-426")
 
     # Save enriched data
     with open(output_file, 'w') as f:

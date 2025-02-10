@@ -1,0 +1,1399 @@
+[
+    {
+        "name": "Vriess",
+        "rank": "Engineer",
+        "affiliation": "The Betty Crew",
+        "species": "Human",
+        "height": "5ft 11 \u00bd (181.6 cm)",
+        "hair": "Brown",
+        "eyecolor": "Light brown",
+        "planets": [],
+        "vessels": [
+            "the Betty",
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Sabra Hillard",
+        "rank": "Pilot",
+        "affiliation": "The Betty Crew",
+        "species": "Human",
+        "height": "5ft 9 \u00bd (176.5 cm)",
+        "hair": "Brown",
+        "eyecolor": "Blue",
+        "planets": [],
+        "vessels": [
+            "the Betty",
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Olsen",
+        "rank": "Technician",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5ft 10 (177.8 cm)",
+        "hair": "Black",
+        "eyecolor": "Green",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Mason Wren",
+        "rank": "Researcher",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5ft 8 (172.7 cm)",
+        "hair": "Black",
+        "eyecolor": "Light brown",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Martin Perez",
+        "rank": "General",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5'7\" (1.70 m)",
+        "hair": "Black",
+        "eyecolor": "Dark brown",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Larry Purvis",
+        "rank": "Civilian",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 10 \u00bc (178.4 cm)",
+        "hair": "Brown",
+        "eyecolor": "Brown",
+        "planets": [],
+        "vessels": [
+            "the Betty",
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Jonathan Gediman",
+        "rank": "Researcher",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5ft 10 (177.8 cm)",
+        "hair": "Blonde",
+        "eyecolor": "Light brown",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Vehrenberg",
+        "rank": "Soldier",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Blond",
+        "eyecolor": "Green",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Vincent DiStephano",
+        "rank": "Private First Class",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5ft 11in",
+        "hair": "Black",
+        "eyecolor": "Gray",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Trish Fontaine",
+        "rank": "Scientist",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5ft 11 (180.3 cm)",
+        "hair": "Black (Graying)",
+        "eyecolor": "Light brown",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Johner",
+        "rank": "Mercenary",
+        "affiliation": "The Betty Crew",
+        "species": "Human",
+        "height": "5ft 9 \u00bd (176.5 cm)",
+        "hair": "Grey",
+        "eyecolor": "Brown",
+        "planets": [],
+        "vessels": [
+            "the Betty",
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Dan Sprague",
+        "rank": "Surgeon",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5ft 11 \u00be (182.2 cm)",
+        "hair": "Light brown",
+        "eyecolor": "Hazel",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Frank Elgyn",
+        "rank": "Captain",
+        "affiliation": "The Betty Crew",
+        "species": "Human",
+        "height": "5ft 1 \u00be (156.8 cm)",
+        "hair": "Brown",
+        "eyecolor": "Green",
+        "planets": [],
+        "vessels": [
+            "the Betty",
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Christie",
+        "rank": "Mercenary",
+        "affiliation": "The Betty Crew",
+        "species": "Human",
+        "height": "5ft 9 \u00bd (176.5 cm)",
+        "hair": "Brown",
+        "eyecolor": "Green",
+        "planets": [],
+        "vessels": [
+            "the Betty",
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Janek",
+        "rank": "Captain",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 10 (177.8 cm)",
+        "hair": "Black",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-223",
+            "Earth"
+        ],
+        "vessels": [
+            "USCSS Prometheus"
+        ],
+        "films": [
+            "Prometheus"
+        ]
+    },
+    {
+        "name": "Meredith Vickers",
+        "rank": "Unknown",
+        "affiliation": "Weyland Corporation",
+        "species": "Human",
+        "height": "5ft 1 \u00be (156.8 cm)",
+        "hair": "Blonde",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "LV-223",
+            "Earth"
+        ],
+        "vessels": [
+            "USCSS Prometheus"
+        ],
+        "films": [
+            "Prometheus"
+        ]
+    },
+    {
+        "name": "Peter Weyland",
+        "rank": "Chief Executive Officer",
+        "affiliation": "Weyland Corporation",
+        "species": "Human",
+        "height": "5ft 10 \u00bc (178.4 cm)",
+        "hair": "Shaved",
+        "eyecolor": "Hazel",
+        "planets": [
+            "LV-223",
+            "Earth"
+        ],
+        "vessels": [
+            "USCSS Prometheus"
+        ],
+        "films": [
+            "Prometheus"
+        ]
+    },
+    {
+        "name": "Elizabeth Shaw",
+        "rank": "Archeologist",
+        "affiliation": "Weyland Corporation",
+        "species": "Human",
+        "height": "5ft 9",
+        "hair": "Red",
+        "eyecolor": "Hazel",
+        "planets": [
+            "LV-223",
+            "Earth"
+        ],
+        "vessels": [
+            "USCSS Prometheus"
+        ],
+        "films": [
+            "Prometheus"
+        ]
+    },
+    {
+        "name": "David",
+        "rank": "Unknown",
+        "affiliation": "Weyland Corporation",
+        "species": "Synthetic",
+        "height": "6ft 4 (193 cm)",
+        "hair": "Blonde",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-223",
+            "Earth"
+        ],
+        "vessels": [
+            "USCSS Prometheus"
+        ],
+        "films": [
+            "Prometheus"
+        ]
+    },
+    {
+        "name": "Charlie Holloway",
+        "rank": "Archaeologist",
+        "affiliation": "Weyland Corporation",
+        "species": "Human",
+        "height": "5ft 10 (177.8 cm)",
+        "hair": "Black",
+        "eyecolor": "Brown",
+        "planets": [
+            "LV-223",
+            "Earth"
+        ],
+        "vessels": [
+            "USCSS Prometheus"
+        ],
+        "films": [
+            "Prometheus"
+        ]
+    },
+    {
+        "name": "Walter Golic",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5'7\" (1.70 m)",
+        "hair": "Bald",
+        "eyecolor": "Light brown",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Turk",
+        "rank": "Colonist",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "6ft 4 (193 cm)",
+        "hair": "Light brown (receding)",
+        "eyecolor": "Hazel",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Thomas Murphy",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5'7\" (1.70 m)",
+        "hair": "Black",
+        "eyecolor": "Hazel",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Troy",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 9 \u00bd (176.5 cm)",
+        "hair": "Bald",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Robert Morse",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 9",
+        "hair": "Bald",
+        "eyecolor": "Gray",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Michael Bishop",
+        "rank": "Synthetic Component Designer",
+        "affiliation": "Weyland-Yutani",
+        "species": "Human",
+        "height": "5ft 11 \u00be (182.2 cm)",
+        "hair": "Brown",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [
+            "Sulaco",
+            "USCSS Patna"
+        ],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Rebecca Jorden",
+        "rank": "Unknown",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 8 (172.7 cm)",
+        "hair": "Blonde",
+        "eyecolor": "Brown",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Kevin Dodd",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "6ft 2 (188 cm)",
+        "hair": "Bald",
+        "eyecolor": "Green",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Leonard Dillon",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 11 \u00bd (181.6 cm)",
+        "hair": "Bald",
+        "eyecolor": "Green",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Mark Vincent",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Dark brown (graying)",
+        "eyecolor": "Blue",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Junior",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "6ft 4 (193 cm)",
+        "hair": "Bald",
+        "eyecolor": "Hazel",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Jonathan Clemens",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 4.5in (163.8 cm)",
+        "hair": "Brown",
+        "eyecolor": "Brown",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Harold Andrews",
+        "rank": "Prison Superintendent",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 10 \u00bc (178.4 cm)",
+        "hair": "Bald",
+        "eyecolor": "Hazel",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Gregor",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 11 (180.3 cm)",
+        "hair": "Bald",
+        "eyecolor": "Blue",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Frank",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 11 \u00bd (181.6 cm)",
+        "hair": "Bald",
+        "eyecolor": "Hazel",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Francis Aaron",
+        "rank": "Prison Guard",
+        "affiliation": "Weyland-Yutani",
+        "species": "Human",
+        "height": "5ft 9 \u00bd (176.5 cm)",
+        "hair": "Brown",
+        "eyecolor": "Hazel",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Ellen Ripley",
+        "rank": "Warrant Officer",
+        "affiliation": "Weyland-Yutani",
+        "species": "Human",
+        "height": "6ft 2 (188 cm)",
+        "hair": "Brown",
+        "eyecolor": "Hazel",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [
+            "Sulaco"
+        ],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Daniel Rains",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 11in",
+        "hair": "Grey",
+        "eyecolor": "Green",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Boggs",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Bald",
+        "eyecolor": "Light brown",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Babe",
+        "rank": "Unknown",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 10 \u00bc (178.4 cm)",
+        "hair": "Black",
+        "eyecolor": "Green",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Bishop",
+        "rank": "Unknown",
+        "affiliation": "Unknown",
+        "species": "Synthetic",
+        "height": "5ft 10 \u00bc (178.4 cm)",
+        "hair": "Dark brown",
+        "eyecolor": "Brown",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Arthur Walkingstick",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "5ft 4 (162.6 cm)",
+        "hair": "Bald",
+        "eyecolor": "Hazel",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Carlyn Williamson",
+        "rank": "Anaesthesiologist",
+        "affiliation": "USM",
+        "species": "Human",
+        "height": "5ft 10 (177.8 cm)",
+        "hair": "Grey",
+        "eyecolor": "Light brown",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Calabrese",
+        "rank": "Soldier",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5ft 8 (172.7 cm)",
+        "hair": "Reddish-brown",
+        "eyecolor": "Light brown",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Alan Jude",
+        "rank": "Prisoner",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "6ft 2 (188 cm)",
+        "hair": "Dark brown (graying)",
+        "eyecolor": "Light brown",
+        "planets": [
+            "Fiorina 161"
+        ],
+        "vessels": [],
+        "films": [
+            "Alien 3"
+        ]
+    },
+    {
+        "name": "Brian Clauss",
+        "rank": "Scientist",
+        "affiliation": "United Systems Military",
+        "species": "Human",
+        "height": "5ft 11 \u00bd (181.6 cm)",
+        "hair": "Shaved",
+        "eyecolor": "Light brown",
+        "planets": [],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Annalee Call",
+        "rank": "Unknown",
+        "affiliation": "The Betty Crew",
+        "species": "Synthetic",
+        "height": "5ft 11 (180.3 cm)",
+        "hair": "Blond",
+        "eyecolor": "Blue",
+        "planets": [
+            "Earth"
+        ],
+        "vessels": [
+            "USM Auriga"
+        ],
+        "films": [
+            "Alien Resurrection"
+        ]
+    },
+    {
+        "name": "Joan Lambert",
+        "rank": "Navigator",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "5ft 4 (162.6 cm)",
+        "hair": "Light brown",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USCSS Nostromo"
+        ],
+        "films": [
+            "Alien"
+        ]
+    },
+    {
+        "name": "Dennis Parker",
+        "rank": "Chief Engineer",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "6ft 4 (193 cm)",
+        "hair": "Black",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USCSS Nostromo"
+        ],
+        "films": [
+            "Alien"
+        ]
+    },
+    {
+        "name": "Samuel Brett",
+        "rank": "Engineering Technician",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "5ft 8 (172.7 cm)",
+        "hair": "Dark brown",
+        "eyecolor": "Light brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USCSS Nostromo"
+        ],
+        "films": [
+            "Alien"
+        ]
+    },
+    {
+        "name": "Arthur Dallas",
+        "rank": "Captain",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "5ft 11in",
+        "hair": "Black, graying",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USCSS Nostromo"
+        ],
+        "films": [
+            "Alien"
+        ]
+    },
+    {
+        "name": "Thomas Kane",
+        "rank": "Executive Officer",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "5ft 9",
+        "hair": "Light brown",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USCSS Nostromo"
+        ],
+        "films": [
+            "Alien"
+        ]
+    },
+    {
+        "name": "Ash",
+        "rank": "Science Officer",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Synthetic",
+        "height": "5ft 5in (165.1 cm)",
+        "hair": "Black (Graying)",
+        "eyecolor": "Green",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USCSS Nostromo"
+        ],
+        "films": [
+            "Alien"
+        ]
+    },
+    {
+        "name": "Alexander \"Al\" Apone",
+        "rank": "Master Sergeant",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Black",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Trevor \"Ski\" Wierzbowski",
+        "rank": "Private",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Dark brown",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Paul Van Leuwen",
+        "rank": "Chairman",
+        "affiliation": "Interstellar Commerce Commission",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Dark brown (graying)",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "\"Medical technician\"",
+        "rank": "Medical technician",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "6ft 2 (188 cm)",
+        "hair": "Black",
+        "eyecolor": "Brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Jenette Vasquez",
+        "rank": "Private First Class",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5ft 1 \u00be (156.8 cm)",
+        "hair": "Black",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Daniel Spunkmeyer",
+        "rank": "Private First Class",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5ft 10 \u00bc (178.4 cm)",
+        "hair": "Dark brown",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "\"Doctor\"",
+        "rank": "Doctor",
+        "affiliation": "Unknown",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Light brown",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "W. Alan Simpson",
+        "rank": "Colonial administrator",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "5ft 4.5in (163.8 cm)",
+        "hair": "Blond",
+        "eyecolor": "Brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Amanda Ripley-McClaren",
+        "rank": "Unknown",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "5ft 1 \u00be (156.8 cm)",
+        "hair": "Dark brown",
+        "eyecolor": "Green",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Brad Lydecker",
+        "rank": "Assistant operations manager",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "5ft 10 (177.8 cm)",
+        "hair": "Light brown (receding)",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Mary",
+        "rank": "Unknown",
+        "affiliation": "Hadley's Hope",
+        "species": "Human",
+        "height": "5ft 5in (165.1 cm)",
+        "hair": "Dark brown",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Timmy Jorden",
+        "rank": "Colonist",
+        "affiliation": "Hadley's Hope",
+        "species": "Human",
+        "height": "5ft 11 (180.3 cm)",
+        "hair": "Blond",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Russ Jorden",
+        "rank": "Prospector",
+        "affiliation": "Hadley's Hope",
+        "species": "Human",
+        "height": "6'1\" (1.85 m)",
+        "hair": "Light brown",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Rebecca \"Newt\" Jorden",
+        "rank": "Colonist",
+        "affiliation": "Hadley's Hope",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Blonde",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Jernigan",
+        "rank": "Salvage team leader",
+        "affiliation": "GM28223",
+        "species": "Human",
+        "height": "6ft 0 (182.9 cm)",
+        "hair": "Light brown",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Insurance attorney",
+        "rank": "Unknown",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "6ft 4 (193 cm)",
+        "hair": "Brown",
+        "eyecolor": "Green",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Anne Jorden",
+        "rank": "Prospector",
+        "affiliation": "Hadley's Hope",
+        "species": "Human",
+        "height": "5ft 10 \u00bc (178.4 cm)",
+        "hair": "Blonde",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Dwayne Hicks",
+        "rank": "Senior Corporal, 3rd in command",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5ft 11 \u00be (182.2 cm)",
+        "hair": "Light brown",
+        "eyecolor": "Green",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "William Hudson",
+        "rank": "Private First Class",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5ft 11 \u00bd (181.6 cm)",
+        "hair": "Dark brown",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Ricco \"Frosty\" Frost",
+        "rank": "Private",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "6ft 2 (188 cm)",
+        "hair": "Black",
+        "eyecolor": "Dark brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Scott Gorman",
+        "rank": "Lieutenant",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5ft 9 \u00bd (176.5 cm)",
+        "hair": "Light brown",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Cynthia Dietrich",
+        "rank": "Corporal",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5'7\" (1.70 m)",
+        "hair": "Light brown",
+        "eyecolor": "Hazel",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Mark Drake",
+        "rank": "Private First Class",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5ft 11 (180.3 cm)",
+        "hair": "Blond (receding)",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Colette Ferro",
+        "rank": "Corporal",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5ft 4.5in (163.8 cm)",
+        "hair": "Blonde",
+        "eyecolor": "Blue",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "ECA representative",
+        "rank": "Unknown",
+        "affiliation": "Extrasolar Colonization Administration",
+        "species": "Human",
+        "height": "5ft 9 \u00bd (176.5 cm)",
+        "hair": "Reddish-brown",
+        "eyecolor": "Light brown",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Tim Crowe",
+        "rank": "Private",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Human",
+        "height": "5ft 8 (172.7 cm)",
+        "hair": "Light brown",
+        "eyecolor": "Green",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Carter Burke",
+        "rank": "Junior Executive",
+        "affiliation": "Weyland-Yutani Corporation",
+        "species": "Human",
+        "height": "5ft 9 \u00bd (176.5 cm)",
+        "hair": "Light brown",
+        "eyecolor": "Gray",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    },
+    {
+        "name": "Lance Bishop",
+        "rank": "Executive Officer",
+        "affiliation": "United States Colonial Marine Corps",
+        "species": "Synthetic",
+        "height": "5ft 11in",
+        "hair": "Dark brown",
+        "eyecolor": "Hazel",
+        "planets": [
+            "LV-426"
+        ],
+        "vessels": [
+            "USS Sulaco"
+        ],
+        "films": [
+            "Aliens"
+        ]
+    }
+]
