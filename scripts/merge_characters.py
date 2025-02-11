@@ -1,5 +1,7 @@
 import pandas as pd
 
+#TODO! consider using pandas data frames as primary data structure for scripts
+
 def merge_json(file1, file2, output_file):
     df1 = pd.read_json(file1)
     df2 = pd.read_json(file2)
