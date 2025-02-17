@@ -45,13 +45,16 @@ def load_character_data(input_file, session):
             )
 
             for planet_name in char.get('planets',[]):
-                character.planets.append(planet_objects[planet_name])
+                if planet_name in planet_objects:
+                    character.planets.append(planet_objects[planet_name])
 
             for vessel_name in char.get('vessels',[]):
-                character.vessels.append(vessel_objects[vessel_name])
+                if vessel_name in vessel_objects:
+                    character.vessels.append(vessel_objects[vessel_name])
 
             for film_name in char.get('films',[]):
-                character.films.append(film_objects[film_name])
+                if film_name in film_objects:
+                    character.films.append(film_objects[film_name])
 
             session.add(character)
 
