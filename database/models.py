@@ -65,5 +65,5 @@ class Film(Base):
     name = Column(String, unique=True, nullable=False)
 
     # Relationship
-    characters = relationship("Character", secondary=character_films, back_populates="characters")
+    characters = relationship("Character", secondary=character_films, back_populates="films")
 
