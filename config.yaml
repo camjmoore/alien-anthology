@@ -1,0 +1,18 @@
+# Configuration for alien etl pipeline
+pipeline:
+  name: alien etl pipeline
+  version: 1.0
+
+# Database configuration
+sqlite:
+  database_path: alien_anthology.db
+
+# Data file paths
+data:
+  raw:
+    anthology_characters: data/raw/anthology_characters.json
+    avp_characters: data/raw/avp_characters.json
+  processed:
+    merged: data/processed/characters_merged.json
+    extracted: data/processed/characters_extracted.json
+    enriched: data/processed/characters_enriched.json
