@@ -1,5 +1,5 @@
 import json
-from database.models import Character, Planet, Vessel, Film
+from shared.database.models import Character, Planet, Vessel, Film
 
 def load_character_data(input_file, session):
     try:

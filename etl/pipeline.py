@@ -1,5 +1,5 @@
-from database.database import initialize_db
-from database.database import create_session
+from shared.database.connection import initialize_db
+from shared.database.connection import create_session
 from scripts.merge_characters import merge_json
 from scripts.extract_characters import extract_characters
 from scripts.enrich_characters import enrich_character_data
