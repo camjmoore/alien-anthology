@@ -15,7 +15,7 @@ An ETL pipeline and REST API built to produce and serve Alien universe character
 ## Tech Stack 🛠️
 
 - **Data Processing**: Python, Pandas, NumPy
-- **Web Scraping**: Scrapy, BeautifulSoup
+- **Web Scraping**: Scrapy
 - **Database**: SQLite, SQLAlchemy ORM
 - **API**: FastAPI (planned), Docker (planned)
 
