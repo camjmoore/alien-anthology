@@ -5,7 +5,7 @@ pipeline:
 
 # Database configuration
 sqlite:
-  database_path: alien_anthology.db
+  database_path: ../shared/database/alien_anthology.db
 
 # Data file paths
 data:
