@@ -1,3 +1,6 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from shared.database.connection import initialize_db
 from shared.database.connection import create_session
 from scripts.merge_characters import merge_json
