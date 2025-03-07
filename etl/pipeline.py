@@ -11,7 +11,7 @@ import yaml
 
 def run_pipeline():
 
-    with open('config.yaml', 'r') as f:
+    with open('../config.yaml', 'r') as f:
         config = yaml.safe_load(f)
 
         engine = initialize_db(config['sqlite']['database_path'])
