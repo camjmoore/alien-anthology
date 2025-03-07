@@ -5,14 +5,14 @@ pipeline:
 
 # Database configuration
 sqlite:
-  database_path: ../shared/database/alien_anthology.db
+  database_path: ./shared/database/alien_anthology.db
 
 # Data file paths
 data:
   raw:
-    anthology_characters: data/raw/anthology_characters.json
-    avp_characters: data/raw/avp_characters.json
+    anthology_characters: etl/data/raw/anthology_characters.json
+    avp_characters: etl/data/raw/avp_characters.json
   processed:
-    merged: data/processed/characters_merged.json
-    extracted: data/processed/characters_extracted.json
-    enriched: data/processed/characters_enriched.json
+    merged: etl/data/processed/characters_merged.json
+    extracted: etl/data/processed/characters_extracted.json
+    enriched: etl/data/processed/characters_enriched.json
