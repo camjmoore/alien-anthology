@@ -1,17 +1,14 @@
-import sys
-import os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from shared.database.connection import initialize_db
 from shared.database.connection import create_session
-from scripts.merge_characters import merge_json
-from scripts.extract_characters import extract_characters
-from scripts.enrich_characters import enrich_character_data
-from scripts.load_characters import load_character_data
+from etl.scripts.merge_characters import merge_json
+from etl.scripts.extract_characters import extract_characters
+from etl.scripts.enrich_characters import enrich_character_data
+from etl.scripts.load_characters import load_character_data
 import yaml
 
 def run_pipeline():
 
-    with open('../config.yaml', 'r') as f:
+    with open('config.yaml', 'r') as f:
         config = yaml.safe_load(f)
 
         engine = initialize_db(config['sqlite']['database_path'])
