@@ -18,14 +18,14 @@
 - Web scraping of character information from wiki sources
 - Data cleaning and enrichment pipeline
 - SQLite database with normalized relationships
-- A RESTful endpoint for querying character data (coming soon)
+- A RESTful endpoint for querying character data
 
 ## Tech Stack 🛠️
 
-- **Data Processing**: Python, Pandas, NumPy
 - **Web Scraping**: Scrapy
-- **Database**: SQLite, SQLAlchemy ORM
-- **API**: FastAPI (planned)
+- **Data Processing**: Pandas, NumPy
+- **Database**: SQLite, SQLAlchemy ORM, Pydantic
+- **API**: FastAPI
 
 ### Prerequisites
 
