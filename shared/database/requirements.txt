@@ -1,2 +1,2 @@
-sqlalchemy
-pydantic
+SQLAlchemy==2.0.38
+pydantic==2.10.6
