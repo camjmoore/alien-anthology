@@ -9,7 +9,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg">
   <img src="https://img.shields.io/badge/Scrapy-2.11%2B-orange.svg">
-  <img src="https://img.shields.io/badge/SQLAlchemy-2.0%2B-red.svg">
+  <img src="https://img.shields.io/badge/Numpy-2.2.3%2B-orange.svg">
+  <img src="https://img.shields.io/badge/Pandas-2.2.3%2B-orange.svg">
+  <img src="https://img.shields.io/badge/SQLAlchemy-2.0.38%2B-red.svg">
+  <img src="https://img.shields.io/badge/Pydantic-2.10.6%2B-red.svg">
+  <img src="https://img.shields.io/badge/FastAPI-0.115.11%2B-red.svg">
   <img src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>
 
